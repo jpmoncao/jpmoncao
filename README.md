@@ -1,6 +1,6 @@
 ## Olá mundo! Meu nome é João Pedro😃
 - 💻 Trabalhando com _back-end_
-- 📚 Estudando _Python_
+- 📚 Estudando _Python_, _HTML_ e _CSS_
 - 📫 Contate-me: [pedrohjoao44](mailto:pedrohjoao44@gmail.com)
 
 <div align="center">
