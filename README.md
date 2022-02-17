@@ -1,5 +1,5 @@
 ## Olá mundo! Meu nome é João Pedro😃
-- 💻 Trabalhando com _back-end_
+- 💻 Estudando com _back-end_
 - 📚 Cursando _Informática_
 - 📫 Contate-me: [pedrohjoao44](mailto:pedrohjoao44@gmail.com)
 
