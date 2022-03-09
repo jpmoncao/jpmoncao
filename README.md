@@ -1,5 +1,5 @@
 ## Olá mundo! Meu nome é João Pedro😃
-- 💻 Estudando _front-end_
+- 💻 Estudando _HTML, CSS & Java_
 - 📚 Cursando _Informática_
 - 📫 Contate-me: [pedrohjoao44](mailto:pedrohjoao44@gmail.com)
 
