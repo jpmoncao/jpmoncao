@@ -16,6 +16,11 @@
   <a style="display:block;" href="https://github.com/jpmoncao/portfolio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpmoncao&repo=portfolio&theme=react"/>
   </a>
+</div>
+
+##
+
+<div align="center" style="margin-top: 10px;">
   <a href="https://github.com/jpmoncao/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoncao&theme=react"/>
   </a>
@@ -28,6 +33,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
 
 ##
   
