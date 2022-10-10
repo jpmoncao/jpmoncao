@@ -1,4 +1,13 @@
-# Olá mundo! Meu nome é João Pedro😃
+
+
+<div align="right">
+  <a href="https://github.com/jpmoncao/">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoncao&theme=react"/>
+  </a>
+</div>
+
+<h1 align="left">Hello werld, eu sou João Pedro <img src="https://i.pinimg.com/originals/fe/70/ff/fe70ff4dd05e6c4fa6a548b529a2c410.gif" height="50px"></h1>
+
 <div>
   <ul>
     <li>💻 Estudando atualmente <em>Front End</em></li>
@@ -7,22 +16,15 @@
     <li>👔 Dê uma olhada no meu <a href="https://www.linkedin.com/in/jpmoncao/">Linkedin</a></li>
     <li>📫 Contate-me: <a href="mailto:pedrohjoao44@gmail.com">pedrohjoao44@gmail.com</a></li></li>
   </ul>
-  
-  
-</div>
-
-
-<div align="center">
-  <a style="display:block;" href="https://github.com/jpmoncao/portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpmoncao&repo=portfolio&theme=react"/>
-  </a>
 </div>
 
 ##
 
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/jpmoncao/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoncao&theme=react"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jpmoncao&color=blue" alt="Profile views" /> </p>
+
+<div align="center">
+  <a href="https://github.com/jpmoncao/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpmoncao&repo=portfolio&theme=react"/>
   </a>
 </div>
 
@@ -33,7 +35,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
 
 ##
   
