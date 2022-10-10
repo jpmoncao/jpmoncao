@@ -20,7 +20,7 @@
 
 ##
 
-<br><br>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jpmoncao&color=blue" alt="Profile views" /> </p>
 
