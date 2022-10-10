@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h1 align="left">Hello werld, eu sou João Pedro <img src="https://media.tenor.com/gs3qs17S3_IAAAAi/smiley-smile-happy.gif" height="50px"></h1>
+<h1 align="left">Hello werld, eu sou João Pedro <img src="https://media.tenor.com/FmGKWOVEXjQAAAAi/smile.gif" height="50px"></h1>
 
 <div>
   <ul>
