@@ -10,7 +10,7 @@
 
 <div>
   <ul>
-    <li>💻 Estudando atualmente <em>Front End</em></li>
+    <li>💻 Estudando atualmente <em>React, Node.js e React Native</em></li>
     <li>📚 Cursando atualmente <em>Técnico em informática</em></li>
     <li>💙 Apaixonado por tecnologia ^^</li>
     <li>👔 Dê uma olhada no meu <a href="https://www.linkedin.com/in/jpmoncao/">Linkedin</a></li>
