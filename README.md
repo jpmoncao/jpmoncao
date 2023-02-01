@@ -44,5 +44,5 @@
 
 ##
   
-🗿 Obrigado por visitar meu perfil! Considere dar uma olhada nos meus repositórios. [Recomendo esse](https://github.com/jpmoncao/formove) =)
+🫡 Obrigado por visitar meu perfil! Considere dar uma olhada nos meus repositórios. [Recomendo esse](https://github.com/jpmoncao/formove) =)
  ![Snake animation](https://github.com/jpmoncao/jpmoncao/blob/output/github-contribution-grid-snake.svg) 
