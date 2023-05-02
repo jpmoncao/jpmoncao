@@ -10,7 +10,7 @@
 
 <div>
   <ul>
-    <li>💻 Estudando atualmente <em>React, Node.js e React Native</em></li>
+    <li>💻 Estudando atualmente <em>PHP, Delphi e React</em></li>
     <li>📚 Cursando atualmente <em>Técnico em informática</em></li>
     <li>💙 Apaixonado por tecnologia ^^</li>
     <li>👔 Dê uma olhada no meu <a href="https://www.linkedin.com/in/jpmoncao/">Linkedin</a></li>
@@ -40,6 +40,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Delphi" height="30" width="30" src="https://user-images.githubusercontent.com/6978003/28999656-cb0677aa-7a1c-11e7-975d-25ed65555cc8.png">
+  
 </div>
 
 ##
