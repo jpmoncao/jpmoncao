@@ -31,12 +31,12 @@ ___
     </div>
     <div style="width: 60vw;">
         <p>
-            <h3 style="display: inline"><strong>Hello World</strong></h3>, my name is <strong>João Pedro</strong>! I'm <strong>17 years</strong> old, and I <strong>currently work as a web and desktop developer</strong> in São Paulo, <strong>Brazil</strong>. I love programming, and I discovered this during the pandemic. Today, I have been studying technology for three years, and <strong>I'm eager to learn more</strong>. I hope you enjoy my repositories. If possible, please <strong>give them a star and fork them</strong>!
+            <strong>Hello World</strong>, my name is <strong>João Pedro</strong>! I'm <strong>17 years</strong> old, and I <strong>currently work as a web and desktop developer</strong> in São Paulo, <strong>Brazil</strong>. I love programming, and I discovered this during the pandemic. Today, I have been studying technology for three years, and <strong>I'm eager to learn more</strong>. I hope you enjoy my repositories. If possible, please <strong>give them a star and fork them</strong>!
             I'm excited to get to <strong>know you better...</strong>
         </p>
         <hr/>
         <p>
-            <h3 style="display: inline"><strong>Olá Mundo</strong></h3>, meu nome é <strong>João Pedro</strong>! Tenho <strong>17 anos</strong>, e <strong>atualmente trabalho como desenvolvedor web e de desktop</strong> em São Paulo, <strong>Brasil</strong>. Eu amo programação, e descobri isso durante a pandemia. Hoje, estudo tecnologia há três anos, e <strong>estou ansioso para aprender mais</strong>. Espero que você goste dos meus repositórios. Se possível, por favor, <strong>dê a eles uma estrela e faça um fork</strong>!
+            <strong>Olá mundo</strong>, meu nome é <strong>João Pedro</strong>! Tenho <strong>17 anos</strong>, e <strong>atualmente trabalho como desenvolvedor web e de desktop</strong> em São Paulo, <strong>Brasil</strong>. Eu amo programação, e descobri isso durante a pandemia. Hoje, estudo tecnologia há três anos, e <strong>estou ansioso para aprender mais</strong>. Espero que você goste dos meus repositórios. Se possível, por favor, <strong>dê a eles uma estrela e faça um fork</strong>!
             Estou animado para <strong>conhecê-lo melhor...</strong>
         </p>
         <hr/>
