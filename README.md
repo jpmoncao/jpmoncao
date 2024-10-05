@@ -23,11 +23,10 @@ ___
                 <h3>About Me</h3>
                 <ul style="margin-left: -1.75rem;">
                     <li>🙏 I'm Christian</li>
-                    <li>🏀 I play basketball</li>
-                    <li>🧩 My favorite language is TypeScript</li>
+                    <li>🧩 My favorite language is PHP</li>
                     <li>☕ I love coffee!</li>
-                    <li>🌎 I want to save the world!</li>
                     <li>📖 My favorite hobby is learning new things</li>
+                    <li>🪄 <strong>My portfolio</strong>: <a href="https://linktr.ee/jpmoncao">click here!</a></li>
                     <li>🏷️ I have very interesting links: <a href="https://linktr.ee/jpmoncao">click here!</a></li>
                 </ul>
             </div>
