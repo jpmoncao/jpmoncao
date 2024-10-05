@@ -26,7 +26,7 @@ ___
                     <li>🧩 My favorite language is PHP</li>
                     <li>☕ I love coffee!</li>
                     <li>📖 My favorite hobby is learning new things</li>
-                    <li>🪄 <strong>My portfolio</strong>: <a href="https://linktr.ee/jpmoncao">click here!</a></li>
+                    <li>🪄 <strong>My portfolio</strong>: <a href="https://jpmoncao.netlify.app">click here!</a></li>
                     <li>🏷️ I have very interesting links: <a href="https://linktr.ee/jpmoncao">click here!</a></li>
                 </ul>
             </div>
