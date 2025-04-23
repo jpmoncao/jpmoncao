@@ -21,9 +21,16 @@
         🌐 Check out my portfolio: https://jpmoncao.vercel.app
 ```
 ```
-        Como está escrito: Por amor de ti somos entregues à morte todo o dia; somos reputados como ovelhas para o matadouro.
-        Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou 
-        Romanos 8:36-37
+        > Repos
+        📁 Check out my repositories
+        ⭐ Consider leaving your stars
+        👥 I'm open if you want to contribute in any way
+```
+```
+        > Romanos 8:36-37
+        Como está escrito: Por amor de ti somos entregues à morte todo o dia; somos reputados como ovelhas
+        para o matadouro. Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou 
+        
 ```
 <!-- <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=qmyn775x7m8bycxdpl0ynvz3e&count=1&unique=true" alt="Spotify recently played" /> -->
 <!-- <br clear="both"> -->
