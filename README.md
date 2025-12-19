@@ -15,7 +15,7 @@
 ```
         > About Me
         🗺️ I'm from Fernandópolis, São Paulo, Brazil
-        💻 I’ve been working as a software developer since 2023
+        💻 I’ve been working as a software developer since 2022
         🤓 I'm a computer technician currently pursuing a degree in Web Systems Development
         ☕ I love coffee!
         🌐 Check out my portfolio: https://jpmoncao.vercel.app
@@ -32,6 +32,6 @@
         para o matadouro. Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou 
         
 ```
-<!-- <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=qmyn775x7m8bycxdpl0ynvz3e&count=1&unique=true" alt="Spotify recently played" /> -->
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=qmyn775x7m8bycxdpl0ynvz3e&count=2&unique=true" alt="Spotify recently played" /> 
 <!-- <br clear="both"> -->
-<img align="right" src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,vue,tailwind,nodejs,jest,python,docker,git&theme=dark&perline=6"  />
+<img align="right" src="https://skillicons.dev/icons?i=ts,nodejs,next,react,tailwind,jest,php,laravel,vue,python,docker,git,spring,java,express,mongodb,cassandra,redis&theme=dark&perline=6"  />
