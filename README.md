@@ -32,6 +32,6 @@
         para o matadouro. Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou 
         
 ```
-<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=qmyn775x7m8bycxdpl0ynvz3e&count=2&unique=true" alt="Spotify recently played" /> 
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=qmyn775x7m8bycxdpl0ynvz3e&count=3&unique=true" alt="Spotify recently played" /> 
 <!-- <br clear="both"> -->
 <img align="right" src="https://skillicons.dev/icons?i=ts,nodejs,next,react,tailwind,jest,php,laravel,vue,python,docker,git,spring,java,express,mongodb,cassandra,redis&theme=dark&perline=6"  />
